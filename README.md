@@ -20,6 +20,8 @@ Small end-to-end data analysis project:
 │  └─ 01_retail_orders_etl_to_mysql.ipynb
 ├─ sql/
 │  └─ retail_orders_analysis.sql
+├─ docs/
+│  └─ architecture.drawio.png
 └─ README.md
 ```
 
